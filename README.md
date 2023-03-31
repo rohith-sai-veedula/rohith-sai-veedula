@@ -7,7 +7,9 @@
 
 - 🌱 I’m currently learning **Data Analytics and Systems Security**
 
-- 📫 How to reach me **rohit.veedula@gmail.com**
+- 🍵 Fun fact about me **I am a novice barista with coding skills** 
+
+- 📫 You can reach out to me at **rohit.veedula@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
