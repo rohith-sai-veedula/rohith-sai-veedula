@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohith Sai Veedula</h1>
-<h3 align="center">A passionate software developer pursuing master's in electrical engineering at USF</h3>
+<h3 align="center">A passionate engineer pursuing master's in electrical engineering at USF</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohith-sai-veedula&label=Profile%20views&color=0e75b6&style=flat" alt="rohith-sai-veedula" /> </p>
-
-- 🔭 I’m currently working on **Image Classification using Machine Learning**
-
-- 🌱 I’m currently learning **Data Analytics and Systems Security**
 
 - 🍵 Fun fact about me **I am a novice barista with coding skills** 
 
