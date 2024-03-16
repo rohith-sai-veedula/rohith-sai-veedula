@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohith-sai-veedula&label=Profile%20views&color=0e75b6&style=flat" alt="rohith-sai-veedula" /> </p>
 
-- 🍵 Fun fact about me **I am a novice barista with coding skills** 
-
 - 📫 You can reach out to me at **rohit.veedula@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
